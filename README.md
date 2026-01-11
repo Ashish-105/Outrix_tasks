@@ -1,5 +1,8 @@
 # Outrix_tasks
+
 🍔 BYTEBite – Food Delivery App UI/UX Design (Figma Project)
+
+
 BYTEBite is a fresh and energetic UI/UX design concept for a food delivery app, created with the goal of making food ordering simple, fun, and visually delightful. Every screen is designed to feel intuitive and welcoming, guiding users smoothly from the first launch to onboarding, authentication, and into the core app experience. All designs are built on a consistent and well-structured design system to ensure scalability and clarity.
 
 What makes BYTEBite special:
