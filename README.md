@@ -42,8 +42,6 @@ BYTEBite was created to reflect real-world product design standards and to demon
 
 
 
-
-
 LINK FOR FIGMA :  https://www.figma.com/design/0MRKQrhkPCFDNC70FLzJjB/Food-Delivery-App-UI-Kit-Food-App-Design-Food-Mobile-App-Delivery-UI--Community-?node-id=1-423&t=cKQjxFU6XYp240Q3-1
 
 
